@@ -2,6 +2,7 @@
 data/
 .idea/
 .DS_Store
+notebooks/refresher.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
